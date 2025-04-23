@@ -1,0 +1,34 @@
+#projects {
+    text-align: center;
+    padding: 50px;
+}
+
+.project-list {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.project-item {
+    background-color: var(--lightsandal);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.project-item h3 {
+    margin-bottom: 10px;
+    color: var(--darkpink);
+}
+
+.project-item a {
+    color: var(--pink);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.project-item a:hover {
+    text-decoration: underline;
+    color: var(--darkpink);
+}

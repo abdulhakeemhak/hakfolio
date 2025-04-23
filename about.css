@@ -1,0 +1,66 @@
+/* About Section Styling */
+#about {
+    max-width: 1200px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+#about h1 {
+    font-size: 2.5rem;
+    color: #ff6347;
+    margin-bottom: 20px;
+}
+
+#about p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 30px;
+    line-height: 1.8;
+}
+
+.about-content {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.about-info {
+    flex: 1;
+    max-width: 600px;
+    text-align: left;
+}
+
+.about-info h2 {
+    color: #ff6347;
+    margin-bottom: 15px;
+}
+
+.about-info ul {
+    list-style: none;
+    padding: 0;
+    line-height: 1.8;
+}
+
+.about-info ul li {
+    font-size: 1rem;
+    margin-bottom: 10px;
+}
+
+.about-image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-image img {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
