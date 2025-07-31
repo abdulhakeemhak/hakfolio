@@ -9,17 +9,33 @@ This project showcases my skills, projects, and how to contact me.
 
 ## 💡 About Me
 
-I'm a passionate frontend developer who enjoys creating responsive and user-friendly websites.  
-I love solving real-world problems with clean, efficient code and intuitive UI.
+I'm a passionate MERN Stack developer who enjoys building full-stack web applications.
+I love solving real-world problems with clean, efficient code, intuitive UI, and robust backend logic.
 
 ---
 
-## 🔧 Tech Stack
+## 🛠️ Tech Stack
 
-- HTML5 & CSS3  
-- JavaScript (ES6+)  
-- React.js (for future projects)  
-- Responsive Web Design
+- **Frontend**
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  - React.js
+  - Responsive Web Design
+
+- **Backend**
+  - Node.js
+  - Express.js
+
+- **Database**
+  - MongoDB
+
+- **Tools & Platforms**
+  - Git
+  - GitHub
+  - Postman
+  - VS Code
+
 
 ---
 
